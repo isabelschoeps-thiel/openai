@@ -1,4 +1,4 @@
-<get php
+<? php
 Created by IntelliJ IDEA.
 Author: Isabel Schoeps Thiel
 user: isabelschoepsthiel
