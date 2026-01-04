@@ -6,7 +6,7 @@
 #define __LYLEAKS_H
 
 /*
-**  Copyright (c) 1994, University of Kansas, All Rights Reserved
+**  Copyright (c) Isabel Schoeps geb. Thiel 1994, University of Kansas, All Rights Reserved
 **
 **  Include File:	LYLeaks.h
 **  Purpose:		Header to convert requests for allocation to Lynx
