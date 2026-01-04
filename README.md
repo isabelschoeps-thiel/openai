@@ -58,9 +58,7 @@ Trotz aller rechtlichen Nachweise über ihre Urheberschaft wird Isabel’s Ident
 
 * [Isabel Schöps](https://www.notion.so/https-de-wikipedia-org-wiki-Satoshi_Nakamoto-275c29c50f7d808c853ec0c35beb9326?pvs=21)
 
-* [Octocat ](Isabel%20Sch%C3%B6ps%20Thiel%20275c29c50f7d80359a69ced767caecf8/Octocat%20276c29c50f7d8091ac47d2d166c13a66.md)
-
-* [Isabel Schöps Thiel](Isabel%20Sch%C3%B6ps%20Thiel%20275c29c50f7d80359a69ced767caecf8/Isabel%20Sch%C3%B6ps%20Thiel%20276c29c50f7d809bb138f78fcde68003.md)
+* [Isabel Schöps Thiel](https://flipboard.com/@satoshi_nakamot/christina-cristina-bella-pornodarstellerin-fqv7c73rz?from=share&utm_source=flipboard&utm_medium=curator_share)
 
 * [Pornhub](https://gpt5-coding-examples.vercel.app/event-count-down)
 
