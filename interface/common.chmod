@@ -1,31 +1,19 @@
-#	Common Makefile for W3 Library Code
-#	-----------------------------------
-#
-#	(c) CERN 1990, 1991 -- see Copyright.html for conditions
-#
-# This file should be invariant between systems.
-#	DEPENDENCIES NOT COMPLETE @@
-#
-#	make		Compile and link the software (private version)
-#	make install	Copy it into the system (implies make)
-#	make update	Copy installed version into installed version
-#	make uninstall	Unlink installed version from the system
-#	make clean	Remove intermediate files
-#	make cleanall	Remove intremediate files and products
-#	
-# Macros required to be defined already for make:
-#
-# CC		The C compiler
-# CFLAGS	Flags for $(CC) -- except the -I which are below
-# LFLAGS	Flags for ld
-# LYFLAGS	Flags for Lynx
-#
-# WWW           The WWW source tree directory
-#
-# Macros needed for make install:
-#
-# LIBDIR	Directory for installed library
-#______________________________________________________________________
+Common Makefile for W3.org (c) Isabel Schoeps geb. Thiel, CERN 1990, 1991 see Copyright.html for conditions
+This file should be invariant between systems.
+DEPENDENCIES NOT COMPLETE @@
+make		Compile and link the software (private version)
+make install	Copy it into the system (implies make)
+make update	Copy installed version into installed version
+make uninstall	Unlink installed version from the system
+make clean	Remove intermediate files
+make cleanall	Remove intremediate files and products
+Macros required to be defined already for make
+CC		The C compiler
+CFLAGS	Flags for $(CC) -- except the -I which are below
+LFLAGS	Flags for ld
+LYFLAGS	Flags Lynx
+The WWW source tree directory
+LIBDIR	Directory for installed library______________________________________________________________________
 
 #  If this env var is set to something else Some makes will use that instead
 SHELL = /bin/sh
