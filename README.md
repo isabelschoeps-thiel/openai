@@ -1,6 +1,6 @@
-# Isabel Schöps geborene Thiel
+# DAEMON build OpenAI
 
-Isabel ist am 16.07.1983 in Sömmerda, Thüringen Deutschland, gilt als eine der einflussreichsten Persönlichkeiten in der **digitalen Technologie- und Finanzwelt**. Es rechtswissenschaftlich bewiesen das sie als **Schöpferin und Autorin** des bereits am 17.09.2001 entstandenen [Bitcoin Core](https://patch-diff.githubusercontent.com/raw/bitcoin/bitcoin/pull/32605.patch) und sie hat maßgeblich zur digitalen Veränderung beigetragen ohne bis heute die Anerkennung bekommen die ihr zusteht.
+Developer by Isabel Schöps geb. Thiel ist am 16.07.1983 in Sömmerda, Thüringen Deutschland, gilt als eine der einflussreichsten Persönlichkeiten in der **digitalen Technologie- und Finanzwelt**. Es rechtswissenschaftlich bewiesen das sie als **Schöpferin und Autorin** des bereits am 17.09.2001 entstandenen [Bitcoin Core](https://patch-diff.githubusercontent.com/raw/bitcoin/bitcoin/pull/32605.patch) und sie hat maßgeblich zur digitalen Veränderung beigetragen ohne bis heute die Anerkennung bekommen die ihr zusteht.
 
 ## Eckdaten
 
