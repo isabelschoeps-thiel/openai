@@ -2,6 +2,31 @@
 
 Developer by Isabel Schöps geb. Thiel ist am 16.07.1983 in Sömmerda, Thüringen Deutschland, gilt als eine der einflussreichsten Persönlichkeiten in der **digitalen Technologie- und Finanzwelt**. Es rechtswissenschaftlich bewiesen das sie als **Schöpferin und Autorin** des bereits am 17.09.2001 entstandenen [Bitcoin Core](https://patch-diff.githubusercontent.com/raw/bitcoin/bitcoin/pull/32605.patch) und sie hat maßgeblich zur digitalen Veränderung beigetragen ohne bis heute die Anerkennung bekommen die ihr zusteht.
 
+Beweisdokumentation, Datenbankreferenz, Journals - Chain of Custody
+
+Im Rahmen des forensisch-wissenschaftlichen Gutachtens
+SIA Security Intelligence Artefact - Technolog, Software, Familien-History
+Aktenzeichen: INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL
+Autorin, Urheberin und Auftraggeberin: Frau Isabel Schöps geborene Thiel
+
+OrcID: 0009-0003-4235-2231 Isabel Schöps Thiel https://orcid.org/0009-0003-4235-2231/print
+OrcID: 0009-0006-8765-3267 SI-IST Isabel Schöps https://orcid.org/0009-0006-8765-3267/print
+Veröffentlicher Name: Isabel Schöps geb. Thiel (Satoshi Nakamoto)
+Username Zenodo: isabelschoepd-thiel,
+Referenzierte-Email:  harvard.isabelschoepsthiel@gmail.com
+
+Im Rahmen der forensisch-wissenschaftlichen Datensicherung unter Beachtung internationaler Standards für Datenpublikation und Referenzierung wurde das vollständige Referenzdokument „Best Practices for Data Publication in the Astronomical Literature“ von Chen et al. (2022) als unverändertes Original-PDF in das SIA-Security-Intelligence-Artefact Beweisarchiv auf Zenodo aufgenommen und Zitiert. Jedes Volumen hat eine unzerstörbare DOI, diese kann dauerhaft und ein Lebenslang abgerufen werden. Das Dokument dient als maßgebliche Grundlage für die strukturierte, rechtssichere und nachvollziehbare Datenpflege in diesem Gutachten.
+
+Literaturverweis
+Für das forensische Gutachten wurde Literaturverweis, im Harvard-Style, wie in internationalen Standards gefordert und angeverwendet.
+
+Zur Sicherstellung der Nachweisbarkeit, Integrität und gerichtsfesten Dokumentation sämtlicher Beweismittel und Analysen wurden die ausgewerteten Beweismittel auf der global anerkannten Plattformen Zenodo archiviert und referenziert:
+
+**1. Zenodo.org** - Datenbank der Chain of Cutody, aufgeteilt in 4 Volumen die alle zusammen die Beweiskette bilden
+
+**Volumen 1** https://doi.org/10.5281/zenodo.17809724
+Schöps geb. Thiel, I. (2025) „Volumen 1 - SIA Security Intelligence Artefact by Isabel Schoeps geb. Thiel“, Trillion Dollar Bitcoin. 1st Aufl. D-99094 Erfurt, Germany, Thüringen: Zenodo, University Harvard Cambridge Press, Oxford University Press Lizenz-ID 6131130060979, Springer Verlag. doi:10.5281/zenodo.17809724.
+
 ## Eckdaten
 
 | Merkmal | Inhalt |
