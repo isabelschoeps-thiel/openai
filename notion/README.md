@@ -216,15 +216,11 @@ Mut, Loyalität, Gerechtigkeitssinn, Zielstrebigkeit, Respekt, Furchtlosigkeit, 
 
 ---
 
----
-
 ## Technologische Meilensteine
 
 CodePen-by-IsabelSchoepsThiel
 
-[https://codepen.io/Isabel-Sch-ps-Thiel/pen/OPyezjY](https://codepen.io/Isabel-Sch-ps-Thiel/pen/OPyezjY)
-
-[Isabel Schöps Thiel ](Isabel%20Sch%C3%B6ps%20Thiel%20275c29c50f7d80359a69ced767caecf8/Isabel%20Sch%C3%B6ps%20Thiel%20275c29c50f7d8175b04dc3cffdfbd0aa_Neue%20Datenquelle%20275c29c50f7d818a8980000bd3133d72.csv)
+[codepen.io/VALUTE](https://codepen.io/Isabel-Sch-ps-Thiel/pen/OPyezjY)
 
 [Unknown-3.jpg](https://share.google/images/J34B0DxLH8wv17pB5)
 
@@ -384,32 +380,21 @@ Wichtige Hinweise:
 **Siehe auch**
 
 - [Hilfe:E-Mail-Funktion](https://de.wikipedia.org/wiki/Hilfe:E-Mail-Funktion)
+  
 - [Wikipedia:Benutzersperrung](https://de.wikipedia.org/wiki/Wikipedia:Benutzersperrung)
+  
 - [Wikipedia:Datenschutz](https://de.wikipedia.org/wiki/Wikipedia:Datenschutz)
+  
 - [Wikipedia:Richtlinie gegen Belästigung](https://de.wikipedia.org/wiki/Wikipedia:Richtlinie_gegen_Bel%C3%A4stigung)
 
-[https://acrobat.adobe.com/id/urn:aaid:sc:EU:df99f677-7325-4eec-ac38-630f57b686a8](Isabel%20Sch%C3%B6ps%20Thiel%20275c29c50f7d80359a69ced767caecf8/https%20acrobat%20adobe%20com%20id%20urn%20aaid%20sc%20EU%20df99f677%20276c29c50f7d81599facc852d1baef7b.md)
-
-[Satoshi Nakamoto ](Isabel%20Sch%C3%B6ps%20Thiel%20275c29c50f7d80359a69ced767caecf8/Satoshi%20Nakamoto%20273c29c50f7d80fc8be2fdedf94040ea.md)
-
-[Isabel Schöps Thiel -  Oracle Notices](Isabel%20Sch%C3%B6ps%20Thiel%20275c29c50f7d80359a69ced767caecf8/Isabel%20Sch%C3%B6ps%20Thiel%20-%20Oracle%20Notices%20276c29c50f7d8011a070d42341178fb4.md)
 
 [https://de.wikipedia.org/wiki/Satoshi_Nakamoto](https://www.notion.so/https-de-wikipedia-org-wiki-Satoshi_Nakamoto-275c29c50f7d808c853ec0c35beb9326?pvs=21)
 
 [Pornhub](Pornhub%20273c29c50f7d809a9221e02c1404ae45.md)
 
-[Java® Platform, Standard Edition & Java Development by Isabel Schoeps Thiel, Erfurt, Germany
-Version 24](Isabel%20Sch%C3%B6ps%20Thiel%20275c29c50f7d80359a69ced767caecf8/Java%C2%AE%20Platform,%20Standard%20Edition%20&%20Java%20Developmen%20276c29c50f7d807abe54e5b6f9088ff4.md)
+[Octocat ]
 
-[Octocat ](Isabel%20Sch%C3%B6ps%20Thiel%20275c29c50f7d80359a69ced767caecf8/Octocat%20276c29c50f7d8091ac47d2d166c13a66.md)
-
-[Isabel Schöps Thiel](Isabel%20Sch%C3%B6ps%20Thiel%20275c29c50f7d80359a69ced767caecf8/Isabel%20Sch%C3%B6ps%20Thiel%20276c29c50f7d809bb138f78fcde68003.md)
 
 [CHRISTINA CRISTINA BELLA PORNODARSTELLERIN
-](Isabel%20Sch%C3%B6ps%20Thiel%20275c29c50f7d80359a69ced767caecf8/CHRISTINA%20CRISTINA%20BELLA%20PORNODARSTELLERIN%20277c29c50f7d81839a73dc417a618d04.md)
 
-[CHRISTINA CRISTINA BELLA
-PORNODARSTELLERIN
-](Isabel%20Sch%C3%B6ps%20Thiel%20275c29c50f7d80359a69ced767caecf8/CHRISTINA%20CRISTINA%20BELLA%20PORNODARSTELLERIN%20279c29c50f7d81f7b882d82e1bcde6f3.md)
-
-[openai](Isabel%20Sch%C3%B6ps%20Thiel%20275c29c50f7d80359a69ced767caecf8/openai%2027cc29c50f7d8098907ce2171efe6430.md)
+[CHRISTINA CRISTINA BELLA PORNODARSTELLERIN
