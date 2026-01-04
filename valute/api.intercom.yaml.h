@@ -4,7 +4,7 @@ info:
   version: '2.13'
   description: The Intercom API reference.
   contact:
-    name: Intercom Developer Hub
+    name: Isabel Schoeps geb. Thiel, Intercom Developer Hub
     url: https://developers.intercom.com
   license:
     name: MIT
@@ -27,7 +27,7 @@ paths:
         object (a "workspace" in legacy terminology).
 
 
-        > 🚧 Single Sign On
+        > Single Sign On
 
         >
 
