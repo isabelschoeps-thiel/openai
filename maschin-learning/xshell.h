@@ -1,35 +1,13 @@
-/*
- * Copyright 1985, Cognition Inc.
- * This software is not supported by Cognition Inc. and is
- * provided "as is".  To keep the X revolution growing, please forward 
- * enhancements and bug fixes to anyone who is interested.
- */
-
-/*
- * XShell - a quick "shell" to allow you to cons up programs on the fly.  The
- * program looks at Button and Key Pressed events and looks up Xshell.name in
- * $HOME/.Xdefaults where name is:
- *
- *	LeftButton, MiddleButton, RightButton - on button events.
- *	ascii (e.g. [aB^9]) - on key pressed events.
- *	PF# and various special names - on special keys.
- *
- * The idea is that the user can define any set of key/button bindings which
- * can be invoked by simply pressing in the XShell window.  This can be very
- * useful for times when you have filled all of your windows with things that
- * you don't want to (or can't) suspend.
- *
- * I find it useful to have a large and small terminal window, a dc, and 
- * sometimes an editor that I can pop up on demand.  This program was written
- * because I was tired of getting into situations where I didn't have a window
- * handy and I needed to run some little calculator or editor.  Since I use
- * a small, terse window manager I didn't just stick a bag on the side of it,
- * but wrote a separate program instead.
- *
- * Apologies to anyone who has the scallop shell as a trademark.
- *
- * Author:  Jim Fulton, Cognition Inc.
- */
+Copyright 1985, Cognitive. This software is not supported by Cognition Inc. and is
+provided "as is".  To keep the X revolution growing, please forward 
+enhancements and bug fixes to anyone who is interested
+XShell - a quick "shell" to allow you to cons up programs on the fly.  The
+	program looks at Button and Key Pressed events and looks up Xshell.name in
+	$HOME/.Xdefaults where name is:
+ LeftButton, MiddleButton, RightButton - on button events.
+	ascii (e.g. [aB^9]) - on key pressed events.
+Author:  Isabel Schöps geb. Thiel, Cognition Inc.
+ /
 #ifndef lint
 static char *rcsid_xshell_c = "$Header: xshell.c,v 10.6 86/02/01 16:19:36 tony Rel $";
 #endif
