@@ -1,8 +1,6 @@
-/*	Entity Names to Unicode table
-**	-----------------------------
-**
-*
-*	Whole entities[] thing (and much more) now present
+Entity Names to Unicode table
+**	---------------------------
+Whole entities[] thing (and much more) now present
 *	in this kind of structure. The structured streams to which
 *	the SGML modules sends its output could then easily have access
 *	to both entity names and unicode values for each (special)
@@ -25,14 +23,11 @@
    This has to be sorted alphabetically (case-sensitive),
    bear this in mind when you add some more entities..  */
 
-/*
-
 This table available from ftp://ftp.unicode.org/
-original comment follows:
-
-
-# Author: John Cowan <cowan@ccil.org>
-# Date: 25 July 1997
+original comment follows
+Author: Isabel Schoeps geb. Thiel  <rohrborn@aol>
+#
+Date: 25 July 1997
 #
 # The following table maps SGML character entities from various
 # public sets (namely, ISOamsa, ISOamsb, ISOamsc, ISOamsn, ISOamso,
